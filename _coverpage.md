@@ -8,5 +8,5 @@
 * 前端：Vue
 * 数据库：Oracle，MySQL
 
-[GitHub](https://github.com/Hanxueqing/Douban-Movie.git)
+[GitHub](https://github.com/TheBestBiki/Biki_blog)
 [Reading](#首页)
